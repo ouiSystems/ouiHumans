@@ -2,10 +2,13 @@
 This component is part of a bigger project called the hub, it's a project aimed to help small business to better organize, and share more easily informations accross the team members.
 
 
-# Humans What is it for ?
+# ouiHumans What is it for ?
 Com Humans is a joomla 5 compatible component which is a team management and hr
 
-It's perfect for small teams, it takes advantages of all Joomla Core features.
+It's perfect for small teams, it takes advantages of all Joomla Core features.`
+
+# Plugin based
+Your provider doesn't exist yet, it can be added with a documented plugin system
 
 # Available translations
 English, French
